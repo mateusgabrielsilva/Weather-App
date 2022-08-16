@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "weatherApp",
-    "slug": "weatherApp",
+    "name": "WeatherApp",
+    "slug": "WeatherApp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -9,7 +9,7 @@
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#521AC9"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
