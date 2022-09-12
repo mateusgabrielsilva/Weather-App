@@ -1,4 +1,4 @@
-# WeatherApp desenvolvido para estudo de consumo a API
+# WeatherApp desenvolvido para estudo de consumo a API OpenWheaterMap
 
 App desenvolvido em React Native utilizando Expo e consumindo uma API a fins de estudo.
 
